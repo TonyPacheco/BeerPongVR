@@ -1,0 +1,16 @@
+{
+  "source": "Unity",
+  "applications": [
+    {
+      "app_key": "application.generated.unity.virtualbeerpong.exe",
+      "launch_type": "url",
+      "url": "steam://launch/",
+      "action_manifest_path": "F:\\Unity\\Projects\\App Game\\actions.json",
+      "strings": {
+        "en_us": {
+          "name": "Virtual Beer Pong [Testing]"
+        }
+      }
+    }
+  ]
+}
